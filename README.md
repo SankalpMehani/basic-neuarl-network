@@ -22,7 +22,7 @@ This repository contains a simple neural network project implemented using the P
 
 ## Project Overview
 
-Neural networks, specifically Convolutional Neural Networks (CNNs), were implemented for binary classification in this project. CNNs are a subset of machine learning and deep learning, and they play a vital role in classifying and clustering data with high accuracy. This project focuses on building and training a standard CNN with two hidden layers and one output layer.
+Neural networks were implemented for binary classification in this project. The project focuses on building and training a standard Neural Network with two hidden layers and one output layer.
 
 ### Description of the Dataset
 
