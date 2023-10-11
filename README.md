@@ -84,25 +84,25 @@ The optimization techniques were evaluated with different setups, and their impa
 
 The maximum training accuracy with dropout is 96.875%, and the maximum test accuracy is 76.97%. Dropout had a positive effect on the model without overfitting.
 
-![Test and training accuracy with dropout](link_to_image2)
+![Test Vs Training accuracies graphs](./src/result-with-dropout.jpg)
 
 #### Learning Rate Scheduler
 
 The maximum training accuracy with the learning rate scheduler is 100.0%, but there is overfitting, with a significant difference between training and testing accuracy.
 
-![Test and training accuracy with learning rate scheduler](link_to_image3)
+![Test Vs Training accuracies graphs](./src/result-with-lr-scheduler.jpg)
 
 #### k-fold Cross-Validation
 
 The accuracy with k-fold cross-validation is 75.824%, which is lower than the standard CNN model. K-fold cross-validation did not improve accuracy.
 
-![Test and training accuracy with k-fold cross-validation](link_to_image4)
+![Test Vs Training accuracies graphs](./src/result-with-k-fold.jpg)
 
 #### Early Stopping
 
 Early stopping resulted in a maximum training accuracy of 100.0% and a maximum test accuracy of 76.97%, with overfitting observed.
 
-![Test and training accuracy with early stopping](link_to_image5)
+![Test Vs Training accuracies graphs](./src/result-with-early-stopping.jpg)
 
 ### Detailed Analysis
 
