@@ -61,7 +61,7 @@ The maximum training accuracy achieved for the standard CNN model is 90.63%, and
 
 ### Test and Training Accuracy Graphs
 
-![Test Vs Training accuracy graphs](link_to_image1)
+![Test Vs Training accuracies graphs](./src/train-vs-test-accuracies.jpg)
 
 ## Part II: Optimizing the Neural Network
 
